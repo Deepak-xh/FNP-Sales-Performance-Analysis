@@ -5,9 +5,9 @@ I developed a comprehensive end-to-end sales performance and analytics project u
 This project is an end-to-end Sales Performance and E-commerce Analytics dashboard built using Advanced Microsoft Excel. It analyzes 1,000 orders from the Ferns N Petals (FNP) dataset to uncover key insights related to revenue generation, seasonal festival demand (Raksha Bandhan, Valentine's Day), product popularity, customer spending patterns, and delivery logistics.
 
 ##Dataset used
--<a href="https://github.com/Deepak-xh/FNP-Sales-Performance-Analysis/blob/main/customers.csv">
--<a href="https://github.com/Deepak-xh/FNP-Sales-Performance-Analysis/blob/main/orders.csv">
--<a href="https://github.com/Deepak-xh/FNP-Sales-Performance-Analysis/blob/main/products.csv">
+-<a href="https://github.com/Deepak-xh/FNP-Sales-Performance-Analysis/blob/main/customers.csv">customersDataset</a>
+-<a href="https://github.com/Deepak-xh/FNP-Sales-Performance-Analysis/blob/main/orders.csv">ordersDataset</a>
+-<a href="https://github.com/Deepak-xh/FNP-Sales-Performance-Analysis/blob/main/products.csv">productsDataset</a>
 
 ## Technical Workflow & Process:
 1. ETL & Data Preprocessing (Power Query):
@@ -41,11 +41,17 @@ Analyzed sales trends, delivery turnaround times, customer spending patterns, an
 4. Logistics Optimization: Delivery takes an average of 5.53 days, presenting an opportunity for same-day express delivery in top metro cities.
 
 ##  Insights and kpi
--<a href="https://github.com/Deepak-xh/FNP-Sales-Performance-Analysis/blob/main/fnp%20kpi%20%20and%20insight.pdf">
+-<a href="https://github.com/Deepak-xh/FNP-Sales-Performance-Analysis/blob/main/fnp%20kpi%20%20and%20insight.pdf">inights_pdf</a>
 
 ## Dashboard
--<a href="https://github.com/Deepak-xh/FNP-Sales-Performance-Analysis/blob/main/fnp_project_dashboard.PNG">
+-<a href="https://github.com/Deepak-xh/FNP-Sales-Performance-Analysis/blob/main/fnp_project_dashboard.PNG">dahboard_ss</a>
 
+
+## Conclusion & Key Takeaways
+ Project Impact: Successfully converted raw e-commerce gifting data into an interactive and professional analytics dashboard using Advanced Excel.
+Core Revenue Drivers: Festive seasons (**Raksha Bandhan** in August and **Valentine's Week** in February) are the biggest revenue boosters, while top categories like **Colors, Soft Toys, and Sweets** generate over 70% of total sales.
+Operational Insight: Average delivery time of **5.53 days** highlights an opportunity to introduce express or same-day delivery for perishable items like cakes and sweets.
+Future Scope: Can be scaled further by integrating automated inventory forecasting, regional city-tier logistics tracking, and customer retention campaigns.
 
 
 
